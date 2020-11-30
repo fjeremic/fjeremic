@@ -6,6 +6,6 @@ My passion is system's level programming and in particular compiler development 
 
 #### Contact Me
 
-- 🔗 [https://jeremic.ca/](https://jeremic.ca/)
-- ✉️ filip@jeremic.ca
-- 💬 [LinkedIn](https://www.linkedin.com/in/filip-jeremic-11807b18b)
+- 🔗 &nbsp;&nbsp;[https://jeremic.ca/](https://jeremic.ca/)
+- ✉️ &nbsp;&nbsp;filip@jeremic.ca
+- 💬 &nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/filip-jeremic-11807b18b)
