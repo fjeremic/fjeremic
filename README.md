@@ -1,6 +1,6 @@
 ### About Me
 
-Hi, I'm Filip. I'm a just-in-time (JIT) compiler developer based in Toronto, Canada. I'm currently working for <a href="https://www.ibm.com/ibm/ca/en/">IBM Canada</a> on <a href="https://github.com/eclipse/openj9">Eclipse OpenJ9</a> and <a href="https://github.com/eclipse/omr">Eclipse OMR</a> projects. I am a committer/maintainer on both projects and am heavily involved <a href="https://github.com/eclipse/omr/graphs/contributors">contributing</a> code, <a href="https://github.com/eclipse/omr/pulls?q=is%3Apr+sort%3Aupdated-desc+reviewed-by%3A%40me+is%3Aclosed">reviewing</a> contributions, and community involvement.
+Hi, I'm Filip. I'm a just-in-time (JIT) compiler developer based in Toronto, Canada. I'm currently working for <a href="https://www.ibm.com/ibm/ca/en/">IBM Canada</a> on <a href="https://github.com/eclipse/openj9">Eclipse OpenJ9</a> and <a href="https://github.com/eclipse/omr">Eclipse OMR</a> projects. I am a committer/maintainer on both projects and am heavily involved in <a href="https://github.com/eclipse/omr/graphs/contributors">contributing</a> code, <a href="https://github.com/eclipse/omr/pulls?q=is%3Apr+sort%3Aupdated-desc+reviewed-by%3A%40me+is%3Aclosed">reviewing</a> contributions, and community involvement.
 
 My passion is system's level programming and in particular compiler development (static and dynamic), programming languages (design and implementation), parallelization, computer graphics, software protection, reverse engineering, malware analysis, and cryptography.
 
